@@ -1,1 +1,1 @@
-# typescript
+# Desarrollo de ejercicios en Typescript
