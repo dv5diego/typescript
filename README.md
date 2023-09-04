@@ -1,6 +1,6 @@
 # Desarrollo de ejercicios en Typescript
 
-### Para compilar y generar los archivos js en la ruta definida (outDIr) en el archivo tsconfig.json, aplicar el siguiente comando:
+### Para compilar y generar los archivos js en la ruta definida (dist) en el archivo tsconfig.json, aplicar el siguiente comando:
 
     npm run build
 
